@@ -5,3 +5,5 @@ In the Pictures folder you can see the program and how it looks. I have a couple
 The account only shows up once someone has been logged in and is in a protected route. The account page will show the users username. I did everything from backend to front. 
 
 This is no where near as good as other programmers out there with way more experience. I just wanted to add this to my portfolio to show what I can do at this stage. 
+
+I am still working on the cart portion of this app as well. 
